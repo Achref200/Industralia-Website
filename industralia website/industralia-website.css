@@ -1,0 +1,1580 @@
+.industralia-website-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.industralia-website-industralia-website {
+  width: 100%;
+  height: 4680px;
+  display: flex;
+  overflow: hidden;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-image: linear-gradient(90deg, rgb(22, 45, 53) 0.00%,rgba(26, 66, 79, 0.92) 100.00%);
+}
+.industralia-website-group149 {
+  top: 34px;
+  right: -437px;
+  width: 1609px;
+  height: 812px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.industralia-website-rectangle225 {
+  top: -32px;
+  left: -268px;
+  width: 1609px;
+  height: 812px;
+  position: absolute;
+}
+.industralia-website-rectangle226 {
+  top: -4px;
+  left: -4px;
+  width: 1433px;
+  height: 834px;
+  position: absolute;
+}
+.industralia-website-background {
+  top: 549px;
+  left: -77px;
+  width: 1614px;
+  height: 4003.521484375px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.industralia-website-image13 {
+  top: 0px;
+  left: 5px;
+  width: 1597px;
+  height: 812px;
+  position: absolute;
+}
+.industralia-website-image15 {
+  top: 1571.9473876953125px;
+  left: 17.197795867919922px;
+  width: 1597px;
+  height: 812px;
+  position: absolute;
+}
+.industralia-website-image14 {
+  top: 752.4107666015625px;
+  left: 5px;
+  width: 1597px;
+  height: 812px;
+  position: absolute;
+}
+.industralia-website-image16 {
+  top: 2388.478515625px;
+  left: 17.197795867919922px;
+  width: 1597px;
+  height: 812px;
+  position: absolute;
+}
+.industralia-website-image17 {
+  top: 3192px;
+  left: 0px;
+  width: 1597px;
+  height: 812px;
+  position: absolute;
+}
+.industralia-website-group161 {
+  top: 228px;
+  left: 291px;
+  width: 893px;
+  height: 368px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.industralia-website-text {
+  left: 37px;
+  color: rgba(223, 217, 171, 1);
+  width: 856px;
+  height: auto;
+  position: absolute;
+  font-size: 150px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Metal Mania;
+  font-weight: 400;
+  line-height: 25px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.industralia-website-group152 {
+  top: 161px;
+  left: 232px;
+  width: 360px;
+  height: 25px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.industralia-website-text002 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 35px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Metal Mania;
+  font-weight: 400;
+  line-height: 25px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.industralia-website-text003 {
+  top: 10px;
+  left: 20px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 35px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Metal Mania;
+  font-weight: 400;
+  line-height: 0px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.industralia-website-group157 {
+  top: 304px;
+  left: 0px;
+  width: 372px;
+  height: 63px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(255, 255, 255, 0.23000000417232513);
+}
+.industralia-website-text005 {
+  top: 20px;
+  left: 48px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 25px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: 25px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.industralia-website-group158 {
+  top: 305px;
+  left: 433px;
+  width: 421px;
+  height: 63px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(255, 255, 255, 0.23000000417232513);
+}
+.industralia-website-text007 {
+  top: 20px;
+  left: 48px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 25px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: 25px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.industralia-website-image3 {
+  top: 1397px;
+  left: 474px;
+  width: 626px;
+  height: 597px;
+  position: absolute;
+}
+.industralia-website-aboutgame {
+  top: 1378px;
+  left: -15px;
+  width: 1469px;
+  height: 644px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.industralia-website-group154 {
+  top: 0px;
+  left: 562px;
+  width: 306px;
+  height: 25px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.industralia-website-text009 {
+  color: rgba(223, 217, 171, 1);
+  height: auto;
+  position: absolute;
+  font-size: 35px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Metal Mania;
+  font-weight: 400;
+  line-height: 25px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.industralia-website-text010 {
+  left: 293px;
+  color: rgba(223, 217, 171, 1);
+  height: auto;
+  position: absolute;
+  font-size: 35px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Metal Mania;
+  font-weight: 400;
+  line-height: 25px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.industralia-website-text011 {
+  top: 10px;
+  left: 32px;
+  color: rgba(223, 217, 171, 1);
+  height: auto;
+  position: absolute;
+  font-size: 45px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Metal Mania;
+  font-weight: 400;
+  line-height: 0px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.industralia-website-group156 {
+  top: 77px;
+  left: 0px;
+  width: 1469px;
+  height: 567px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.industralia-website-rectangle230 {
+  top: 0px;
+  left: 0px;
+  width: 525px;
+  height: 567px;
+  position: absolute;
+}
+.industralia-website-image2 {
+  top: 35px;
+  left: 487px;
+  width: 982px;
+  height: 504px;
+  position: absolute;
+}
+.industralia-website-text013 {
+  top: 35px;
+  left: 525px;
+  color: rgba(255, 255, 255, 1);
+  width: 887px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: 27px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.industralia-website-platforms {
+  top: 904px;
+  left: 80px;
+  width: 1287px;
+  height: 368px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.industralia-website-group153 {
+  top: 0px;
+  left: 487px;
+  width: 266px;
+  height: 25px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.industralia-website-text022 {
+  color: rgba(223, 217, 171, 1);
+  height: auto;
+  position: absolute;
+  font-size: 35px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Metal Mania;
+  font-weight: 400;
+  line-height: 25px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.industralia-website-text023 {
+  left: 253px;
+  color: rgba(223, 217, 171, 1);
+  height: auto;
+  position: absolute;
+  font-size: 35px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Metal Mania;
+  font-weight: 400;
+  line-height: 25px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.industralia-website-text024 {
+  top: 10px;
+  left: 24px;
+  color: rgba(223, 217, 171, 1);
+  height: auto;
+  position: absolute;
+  font-size: 45px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Metal Mania;
+  font-weight: 400;
+  line-height: 0px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.industralia-website-group160 {
+  top: 132px;
+  left: 0px;
+  width: 509px;
+  height: 236px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.industralia-website-text026 {
+  top: 180px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 30px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: 0px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.industralia-website-vector {
+  top: 0px;
+  left: 202px;
+  width: 133px;
+  height: 103px;
+  position: absolute;
+}
+.industralia-website-text028 {
+  top: 236px;
+  left: 160px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 30px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: 0px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.industralia-website-group159 {
+  top: 138px;
+  left: 718px;
+  width: 569px;
+  height: 230px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.industralia-website-text030 {
+  top: 174px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 30px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: 0px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.industralia-website-text035 {
+  top: 230px;
+  left: 163px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 30px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: 0px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.industralia-website-vector1 {
+  top: 0px;
+  left: 246px;
+  width: 78px;
+  height: 119px;
+  position: absolute;
+}
+.industralia-website-group166 {
+  top: 2111px;
+  left: 59px;
+  width: 1339px;
+  height: 682px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.industralia-website-group162 {
+  top: 0px;
+  left: 452px;
+  width: 354px;
+  height: 26px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.industralia-website-text037 {
+  color: rgba(223, 217, 171, 1);
+  height: auto;
+  position: absolute;
+  font-size: 35px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Metal Mania;
+  font-weight: 400;
+  line-height: 25px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.industralia-website-text038 {
+  top: 1px;
+  left: 341px;
+  color: rgba(223, 217, 171, 1);
+  height: auto;
+  position: absolute;
+  font-size: 35px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Metal Mania;
+  font-weight: 400;
+  line-height: 25px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.industralia-website-text039 {
+  top: 10px;
+  left: 42px;
+  color: rgba(223, 217, 171, 1);
+  height: auto;
+  position: absolute;
+  font-size: 45px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Metal Mania;
+  font-weight: 400;
+  line-height: 0px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.industralia-website-group163 {
+  top: 123px;
+  left: 0px;
+  width: 435px;
+  height: 559px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.industralia-website-image7 {
+  top: 0px;
+  left: 0px;
+  width: 435px;
+  height: 294px;
+  position: absolute;
+}
+.industralia-website-text041 {
+  top: 311px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 25px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 700;
+  line-height: 27px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.industralia-website-text043 {
+  top: 355px;
+  color: rgba(255, 255, 255, 1);
+  width: 435px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: 27px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.industralia-website-group164 {
+  top: 123px;
+  left: 452px;
+  width: 435px;
+  height: 559px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.industralia-website-image5 {
+  top: 0px;
+  left: 0px;
+  width: 435px;
+  height: 294px;
+  position: absolute;
+}
+.industralia-website-text045 {
+  top: 311px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 25px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 700;
+  line-height: 27px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.industralia-website-text047 {
+  top: 355px;
+  color: rgba(255, 255, 255, 1);
+  width: 435px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: 27px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.industralia-website-group165 {
+  top: 123px;
+  left: 904px;
+  width: 435px;
+  height: 559px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.industralia-website-image6 {
+  top: 0px;
+  left: 0px;
+  width: 435px;
+  height: 294px;
+  position: absolute;
+}
+.industralia-website-text049 {
+  top: 311px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 25px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 700;
+  line-height: 27px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.industralia-website-text051 {
+  top: 355px;
+  color: rgba(255, 255, 255, 1);
+  width: 435px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: 27px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.industralia-website-line1 {
+  top: 967px;
+  left: 700px;
+  width: 344px;
+  height: 0px;
+  position: absolute;
+}
+.industralia-website-group167 {
+  top: 2893px;
+  left: 59px;
+  width: 1283px;
+  height: 318px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.industralia-website-image51 {
+  top: 149px;
+  left: 409px;
+  width: 250px;
+  height: 169px;
+  position: absolute;
+}
+.industralia-website-screenshot3 {
+  top: 149px;
+  left: 699px;
+  width: 251px;
+  height: 169px;
+  position: absolute;
+}
+.industralia-website-screenshot2 {
+  top: 149px;
+  left: 94px;
+  width: 286px;
+  height: 169px;
+  position: absolute;
+}
+.industralia-website-screenshot1 {
+  top: 149px;
+  left: 992px;
+  width: 291px;
+  height: 169px;
+  position: absolute;
+}
+.industralia-website-group1661 {
+  top: 0px;
+  left: 503px;
+  width: 240px;
+  height: 26px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.industralia-website-text053 {
+  color: rgba(223, 217, 171, 1);
+  height: auto;
+  position: absolute;
+  font-size: 35px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Metal Mania;
+  font-weight: 400;
+  line-height: 25px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.industralia-website-text054 {
+  top: 1px;
+  left: 227px;
+  color: rgba(223, 217, 171, 1);
+  height: auto;
+  position: absolute;
+  font-size: 35px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Metal Mania;
+  font-weight: 400;
+  line-height: 25px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.industralia-website-text055 {
+  top: 10px;
+  left: 43px;
+  color: rgba(223, 217, 171, 1);
+  height: auto;
+  position: absolute;
+  font-size: 45px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Metal Mania;
+  font-weight: 400;
+  line-height: 0px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.industralia-website-text057 {
+  top: 90px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 25px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 700;
+  line-height: 27px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.industralia-website-feedback {
+  top: 3828px;
+  left: 221px;
+  width: 993.4263305664062px;
+  height: 438px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.industralia-website-group155 {
+  top: 0px;
+  left: 351px;
+  width: 228px;
+  height: 25px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.industralia-website-text059 {
+  color: rgba(223, 217, 171, 1);
+  height: auto;
+  position: absolute;
+  font-size: 35px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Metal Mania;
+  font-weight: 400;
+  line-height: 25px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.industralia-website-text060 {
+  left: 215px;
+  color: rgba(223, 217, 171, 1);
+  height: auto;
+  position: absolute;
+  font-size: 35px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Metal Mania;
+  font-weight: 400;
+  line-height: 25px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.industralia-website-text061 {
+  top: 10px;
+  left: 392px;
+  color: rgba(223, 217, 171, 1);
+  height: auto;
+  position: absolute;
+  font-size: 45px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Metal Mania;
+  font-weight: 400;
+  line-height: 0px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.industralia-website-group143 {
+  top: 106px;
+  left: 0px;
+  width: 476.1240234375px;
+  height: 64.3410873413086px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(2, 47, 58, 1);
+}
+.industralia-website-text063 {
+  left: 36px;
+  color: rgba(255, 255, 255, 0.4);
+  width: 314px;
+  bottom: 16px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Light;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 300;
+  line-height: 24px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.industralia-website-group142 {
+  top: 106px;
+  left: 517.3023071289062px;
+  width: 476.1240234375px;
+  border: 2px dashed rgba(120, 120, 120, 0.4);
+  height: 64.3410873413086px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(2, 47, 58, 1);
+}
+.industralia-website-group145 {
+  top: 194.7906951904297px;
+  left: 0px;
+  width: 993.4263305664062px;
+  height: 243.2093048095703px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(2, 47, 58, 1);
+}
+.industralia-website-text064 {
+  top: 38.60464859008789px;
+  left: 42.958984375px;
+  color: rgba(255, 255, 255, 0.4);
+  width: 655px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Light;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 300;
+  line-height: 24px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.industralia-website-group1000001165 {
+  top: 3435px;
+  left: 539px;
+  width: 184px;
+  height: 300px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.industralia-website-rectangle238 {
+  top: 6px;
+  left: 0px;
+  width: 184px;
+  height: 294px;
+  position: absolute;
+  border-radius: 17px;
+}
+.industralia-website-text065 {
+  top: 223px;
+  left: 4px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 700;
+  line-height: 27px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.industralia-website-text067 {
+  top: 246px;
+  left: 4px;
+  color: rgba(244, 236, 175, 1);
+  width: 180px;
+  height: auto;
+  position: absolute;
+  font-size: 9px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: 15px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.industralia-website-screenshot3removebgpreview1 {
+  top: 0px;
+  left: 35px;
+  width: 116px;
+  height: 229px;
+  position: absolute;
+}
+.industralia-website-group1000001166 {
+  top: 3435px;
+  left: 754px;
+  width: 184px;
+  height: 306px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.industralia-website-rectangle235 {
+  top: 6px;
+  left: 0px;
+  width: 184px;
+  height: 294px;
+  position: absolute;
+  border-radius: 17px;
+}
+.industralia-website-group1000001159 {
+  top: 221px;
+  left: 0px;
+  width: 184px;
+  height: 85px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(26, 63, 75, 1);
+}
+.industralia-website-text069 {
+  top: 8px;
+  left: 4px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 700;
+  line-height: 27px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.industralia-website-text071 {
+  top: 31px;
+  left: 4px;
+  color: rgba(244, 236, 175, 1);
+  width: 180px;
+  height: auto;
+  position: absolute;
+  font-size: 9px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: 15px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.industralia-website-screenshot4removebgpreview1 {
+  top: 0px;
+  left: 42px;
+  width: 109px;
+  height: 259px;
+  position: absolute;
+}
+.industralia-website-group1000001161 {
+  top: 3441px;
+  left: 969px;
+  width: 184px;
+  height: 300px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.industralia-website-group1000001167 {
+  top: 0px;
+  left: 0px;
+  width: 184px;
+  height: 300px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.industralia-website-rectangle236 {
+  top: 3px;
+  left: 0px;
+  width: 184px;
+  height: 294px;
+  position: absolute;
+  border-radius: 17px;
+}
+.industralia-website-screenshot5removebgpreview1 {
+  top: 0px;
+  left: 14px;
+  width: 155px;
+  height: 223px;
+  position: absolute;
+}
+.industralia-website-rectangle2381 {
+  top: 215px;
+  left: 0px;
+  width: 184px;
+  height: 85px;
+  position: absolute;
+  border-radius: 0 0 17px 17px;
+}
+.industralia-website-text073 {
+  top: 223px;
+  left: 4px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 700;
+  line-height: 27px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.industralia-website-text075 {
+  top: 246px;
+  left: 4px;
+  color: rgba(244, 236, 175, 1);
+  width: 180px;
+  height: auto;
+  position: absolute;
+  font-size: 9px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: 15px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.industralia-website-group1000001160 {
+  top: 3441px;
+  left: 324px;
+  width: 184px;
+  height: 294px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.industralia-website-group1000001164 {
+  top: 0px;
+  left: 0px;
+  width: 184px;
+  height: 294px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(26, 63, 75, 1);
+}
+.industralia-website-text077 {
+  top: 217px;
+  left: 4px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 700;
+  line-height: 27px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.industralia-website-text079 {
+  top: 240px;
+  left: 4px;
+  color: rgba(244, 236, 175, 1);
+  width: 180px;
+  height: auto;
+  position: absolute;
+  font-size: 9px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: 15px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.industralia-website-screenshot7removebgpreview-copie1 {
+  top: 18px;
+  left: 29px;
+  width: 115px;
+  height: 212px;
+  position: absolute;
+}
+.industralia-website-group1000001163 {
+  top: 3441px;
+  left: 109px;
+  width: 184px;
+  height: 294px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(26, 63, 75, 1);
+}
+.industralia-website-group10000011591 {
+  top: 209px;
+  left: 0px;
+  width: 184px;
+  height: 85px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(26, 63, 75, 1);
+}
+.industralia-website-text084 {
+  top: 8px;
+  left: 4px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 700;
+  line-height: 27px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.industralia-website-text086 {
+  top: 31px;
+  left: 4px;
+  color: rgba(244, 236, 175, 1);
+  width: 180px;
+  height: auto;
+  position: absolute;
+  font-size: 9px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: 15px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.industralia-website-screenshot6removebgpreview {
+  top: 7px;
+  left: 31px;
+  width: 122px;
+  height: 233px;
+  position: absolute;
+}
+.industralia-website-group1000001168 {
+  top: 3435px;
+  left: 1184px;
+  width: 184px;
+  height: 300px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.industralia-website-rectangle237 {
+  top: 6px;
+  left: 0px;
+  width: 184px;
+  height: 294px;
+  position: absolute;
+  border-radius: 17px;
+}
+.industralia-website-group1000001162 {
+  top: 0px;
+  left: 0px;
+  width: 184px;
+  height: 300px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.industralia-website-rectangle2382 {
+  top: 215px;
+  left: 0px;
+  width: 184px;
+  height: 85px;
+  position: absolute;
+  border-radius: 0 0 17px 17px;
+}
+.industralia-website-text088 {
+  top: 223px;
+  left: 4px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 700;
+  line-height: 27px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.industralia-website-text090 {
+  top: 246px;
+  left: 4px;
+  color: rgba(244, 236, 175, 1);
+  width: 180px;
+  height: auto;
+  position: absolute;
+  font-size: 9px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: 15px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.industralia-website-screenshot2removebgpreview1 {
+  top: 0px;
+  left: 25px;
+  width: 133px;
+  height: 246px;
+  position: absolute;
+}
+.industralia-website-text092 {
+  top: 3329px;
+  left: 59px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 25px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 700;
+  line-height: 27px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.industralia-website-group1000001171 {
+  top: 4474px;
+  left: -15px;
+  width: 1471px;
+  height: 219px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: #D9D9D9;
+}
+.industralia-website-rectangle231 {
+  left: 0px;
+  width: 1471px;
+  bottom: 0px;
+  height: 181px;
+  position: absolute;
+}
+.industralia-website-text094 {
+  top: -37px;
+  left: 506px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 700;
+  line-height: 27px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.industralia-website-text096 {
+  top: 110px;
+  left: 355px;
+  color: rgba(26, 63, 75, 1);
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.industralia-website-text098 {
+  top: 117px;
+  left: 904px;
+  color: rgba(26, 63, 75, 1);
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.industralia-website-frame19 {
+  gap: 7px;
+  top: 59px;
+  left: 499px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.industralia-website-text100 {
+  color: rgba(26, 63, 75, 1);
+  height: auto;
+  opacity: 0.50;
+  font-size: 15px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.industralia-website-text102 {
+  color: rgba(26, 63, 75, 1);
+  height: auto;
+  font-size: 18px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.industralia-website-frame20 {
+  gap: 7px;
+  top: 130px;
+  left: 499px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.industralia-website-text104 {
+  color: rgba(26, 63, 75, 1);
+  height: auto;
+  opacity: 0.50;
+  font-size: 15px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.industralia-website-text106 {
+  color: rgba(26, 63, 75, 1);
+  height: auto;
+  font-size: 18px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.industralia-website-group1000001169 {
+  top: 62px;
+  left: 89px;
+  width: 118px;
+  height: 118px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.industralia-website-ellipse50 {
+  top: 0px;
+  left: 0px;
+  width: 118px;
+  height: 118px;
+  position: absolute;
+}
+.industralia-website-text108 {
+  top: 30px;
+  left: 50px;
+  color: rgba(255, 255, 255, 1);
+  width: 18px;
+  height: auto;
+  position: absolute;
+  font-size: 50px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Fontdiner Swanky;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.industralia-website-socialmedia {
+  top: 72px;
+  left: 1086px;
+  width: 214.35476684570312px;
+  height: 125.32568359375px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.industralia-website-iconawesomelinkedinin {
+  top: 0px;
+  left: 189px;
+  width: 25px;
+  height: 25px;
+  position: absolute;
+}
+.industralia-website-iconawesomeinstagram {
+  top: 100px;
+  left: 189px;
+  width: 25px;
+  height: 25px;
+  position: absolute;
+}
+.industralia-website-iconawesomefacebookf {
+  top: 54px;
+  left: 194px;
+  width: 14px;
+  height: 25px;
+  position: absolute;
+}
+.industralia-website-iconawesomegithub {
+  top: 0.00146484375px;
+  left: 0px;
+  width: 26px;
+  height: 25px;
+  position: absolute;
+}
+.industralia-website-behance {
+  top: 55px;
+  left: 0px;
+  width: 45.57939910888672px;
+  height: 29.12017250061035px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.industralia-website-text109 {
+  color: rgba(26, 63, 75, 1);
+  width: 46px;
+  height: auto;
+  position: absolute;
+  font-size: 25px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Product Sans;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.industralia-website-rectangle1 {
+  top: 5px;
+  left: 19px;
+  width: 9px;
+  height: 3px;
+  position: absolute;
+}
+.industralia-website-twitter {
+  top: 103px;
+  left: 1px;
+  width: 27px;
+  height: 21.59972381591797px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.industralia-website-dribbble-light-preview {
+  top: 0px;
+  left: 0px;
+  width: 27px;
+  height: 21.59972381591797px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.industralia-website-icons {
+  top: 0px;
+  left: 0px;
+  width: 27px;
+  height: 21.59972381591797px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.industralia-website-twitter154 {
+  top: 0px;
+  left: 0px;
+  width: 27px;
+  height: 22px;
+  position: absolute;
+}
